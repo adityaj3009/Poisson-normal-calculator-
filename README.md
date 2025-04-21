@@ -42,7 +42,7 @@ A desktop GUI application for analyzing probability distributions using **Normal
 
 | Normal Distribution | Comparison View | Poisson Distribution |
 |---------------------|-----------------|----------------------|
-| ![Normal](images/normal_distribution.png) | ![Compare](images/comparison) | ![Poisson](images/poisson_distribution) |
+| ![Normal](images/normal_distribution.png) | ![Compare](images/comparison.png) | ![Poisson](images/poisson_distribution.png) |
 
 ---
 
